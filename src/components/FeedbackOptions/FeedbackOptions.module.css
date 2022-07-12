@@ -34,7 +34,7 @@
   border: px solid;
   border-radius: 5px;
   box-shadow: inset 0 0 20px rgba(223, 192, 221, 0.5),
-    0 0 20px rgba(128, 102, 102, 0.2);
+    0 0 20px rgba(166, 103, 103, 0.2);
   outline-color: rgba(56, 53, 53, 0);
   /* outline-offset: 15px; */
 }
